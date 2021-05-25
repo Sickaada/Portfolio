@@ -4,6 +4,7 @@
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": "https://silentC1C4D4.github.io/Portfolio",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
