@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I am a 20 year old sophomore at IIT Roorkee pursuing Bachelors of Technology in Engineering Physics.',
   paragraphTwo:
-    'I spend most of my time reading and developing software. I love to create applications which are solution centric :). \n Also, I am a developer at MDG, a student run coding group at IIT Roorkee and a Web Developer at PaAC, Physics and Astronomy club of IIT Roorkee.',
+    "I spend most of my time reading and developing software. I love to create applications which are solution centric :). \n Also, I am a part of IIT Roorkee's programming group MDG, where we develop large scale projects and a Web Developer at PaAC, Physics and Astronomy club of IIT Roorkee.",
   paragraphThree:
     'Apart from all the development stuff, I enjoy reading books, playing Apex Legends and CSGO, beating my friends at Chess xD. I am learning Piano and web security now a days.',
   resume: 'https://drive.google.com/file/d/14_OhNRVEZgq1Dxb0o4uRD-0_LLig28ru/view?usp=sharing', // if no resume, the button will not show up
@@ -59,12 +59,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'no_image.jpg',
+    img: 'Project4.jpg',
     title: 'Learn-Chess',
     info: 'Learn Chess is a platform for learning chess powered by a custom built chess engine that keeps on increasing in difficulty. The engine works on the Mini-Max algorithm and is optimized using alpha- beta pruning.',
     info2: '',
     urltype: '',
-    url: '',
+    url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO',
     repo: 'https://github.com/silentC1C4D4/ChessEngineV2',
   },
 ];
