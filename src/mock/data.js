@@ -59,12 +59,20 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Project4.jpg',
+
+    
+
+    img: 'no_image.jpg',
+
     title: 'Learn-Chess',
     info: 'Learn Chess is a platform for learning chess powered by a custom built chess engine that keeps on increasing in difficulty. The engine works on the Mini-Max algorithm and is optimized using alpha- beta pruning.',
     info2: '',
     urltype: '',
+
     url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO',
+
+
+
     repo: 'https://github.com/silentC1C4D4/ChessEngineV2',
   },
 ];
