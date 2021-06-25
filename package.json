@@ -3,7 +3,7 @@
   "private": true,
   "description": "My portfolio",
   "version": "0.1.0",
-  "homepage": "https://silentC1C4D4.github.io/Portfolio",
+  "homepage": "https://sickaada.github.io/Portfolio",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -54,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/silentC1C4D4/Portfolio"
+    "url": "https://github.com/sickaada/Portfolio"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"

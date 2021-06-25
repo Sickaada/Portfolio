@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hey, this is ',
-  name: 'Madhur Rao aka Cicada',
+  name: 'Madhur Rao aka Sickaada',
   subtitle: "I'm a Software Developer",
   cta: '',
 };
@@ -23,8 +23,8 @@ export const aboutData = {
   paragraphTwo:
     "I spend most of my time reading and developing software. I love to create applications which are solution centric :). \n Also, I am a part of IIT Roorkee's programming group MDG, where we develop large scale projects and a Web Developer at PaAC, Physics and Astronomy club of IIT Roorkee.",
   paragraphThree:
-    'Apart from all the development stuff, I enjoy reading books, playing Apex Legends and CSGO, beating my friends at Chess xD. I am learning Piano and web security now a days.',
-  resume: 'https://drive.google.com/file/d/14_OhNRVEZgq1Dxb0o4uRD-0_LLig28ru/view?usp=sharing', // if no resume, the button will not show up
+    'Apart from all the development stuff, I enjoy reading books, playing chess, Apex Legends, CSGO and watch TV series.',
+  resume: 'https://drive.google.com/file/d/17WN28kEulvBQ2R3brWbZ733RDhgR22ZR/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -37,7 +37,7 @@ export const projectsData = [
     info2: '',
     url: 'https://drive.google.com/file/d/1dzDNoZF-52GnALmskERwy_iP8N9bzxWj/view?usp=sharing',
     urltype: 'trailer',
-    repo: 'https://github.com/silentC1C4D4/Collate', // if no repo, the button will not show up
+    repo: 'https://github.com/sickaada/Collate', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -65,7 +65,7 @@ export const projectsData = [
     info2: '',
     urltype: '',
     url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO',
-    repo: 'https://github.com/silentC1C4D4/ChessEngineV2',
+    repo: 'https://github.com/sickaada/ChessEngineV2',
   },
 ];
 
@@ -93,7 +93,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/silentC1C4D4',
+      url: 'https://github.com/sickaada',
     },
   ],
 };
